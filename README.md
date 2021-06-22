@@ -1,4 +1,7 @@
-# Physical-Design-Automation_Hybrid_Lithography_Triple_Patterning_and_E-beam_Decomposition
+# Hybrid_Lithography_Triple_Patterning_and_E-beam_Decomposition
+<br>
+The TPL problem is formulated into a shortest path problem. Dijkstra's algorithm is used to find out the shortest path, which guarantees an optimal solution.<br>
+An additional concern in this work (this paper) is to minimize the use of E-beam due to its low throughput. The use of E-beam causes extra edge cost. The objective is to find out the path which minimizes the total cost and thus it minimizes the use of E-beam.
 
 --how to compile <br>
 In ./src directory:<br>
