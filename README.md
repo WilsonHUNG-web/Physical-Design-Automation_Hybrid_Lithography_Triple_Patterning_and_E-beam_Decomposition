@@ -4,7 +4,7 @@
 In ./src directory:
 
 (1)Makefile:
-$ make
+'''$ make'''
 
 (2)Run the cases:
 $ ../bin/main [dmin] [../testcase/inputfile] [../output/outputfile]
