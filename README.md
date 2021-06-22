@@ -46,5 +46,5 @@ echo "     [M0, 0.064]"
 echo "     [aes, 0.064]"
 ./Verify 0.064 ../testcase/aes.out ../output/aes_0.064.out
 ```
-Referenced paper:
+Referenced paper:<br>
 Haitong Tian, Hongbo Zhang, Zigang Xiao, Martin D. F. Wong, "Hybrid lithography for triple patterning decomposition and E-beam lithography," Proc. SPIE 9052, Optical Microlithography XXVII, 90520P (31 March 2014); https://doi.org/10.1117/12.2046499
